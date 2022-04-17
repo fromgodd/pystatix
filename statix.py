@@ -28,6 +28,3 @@ def median(array):
     except:
         print("Error")
 
-userInput = input(">")
-if userInput == 'median':
-    median(userInput)
