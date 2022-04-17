@@ -1,6 +1,4 @@
 
-
-
 def mean(array):
     try:
         sum = 0
@@ -28,3 +26,13 @@ def median(array):
     except:
         print("Error")
 
+def lower_quartile(array):
+    array.sort()
+    arr_length = len(array)
+    lq = (arr_length+1)/4
+    lq_cnt = []
+    lq_cnt.append(lq)
+    return lq
+
+a = [7,13,13,15,20,24,27]
+print(lower_quartile(a))
