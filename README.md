@@ -1,7 +1,8 @@
 # PyStatix
 Opensource Python library for statistics, data-analysis and data science with own interpreter.
 
-![](https://i.imgur.com/db4XfNt.png)
+
+<p align="center"><img src="https://i.imgur.com/db4XfNt.png" alt="pystatlogo" width="200" height="200" /></p>
 
 
 ## Installation
