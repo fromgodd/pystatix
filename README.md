@@ -5,6 +5,9 @@ Opensource Python library for statistics, data-analysis and data science with ow
 <p align="center"><img src="https://i.imgur.com/db4XfNt.png" alt="pystatlogo" width="200" height="200" /></p>
 
 
+![image](https://github.com/fromgodd/pystatix/assets/97128346/08594b3a-668d-4980-af14-9763c1017ebe)
+
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
